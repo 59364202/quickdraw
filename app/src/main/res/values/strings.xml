@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quick Draw</string>
+    <string-array name="word_random">
+        <item>Ant</item>
+        <item>Bird</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Eye</item>
+        <item>Food</item>
+        <item>Game</item>
+        <item>Horse</item>
+        <item>Ink</item>
+        <item>Jar</item>
+        <item>King</item>
+        <item>Log</item>
+        <item>Monkey</item>
+        <item>Nose</item>
+        <item>Owl</item>
+        <item>Pig</item>
+        <item>Queen</item>
+        <item>Rat</item>
+        <item>Sand</item>
+        <item>Time</item>
+        <item>Universe</item>
+        <item>Volunteer</item>
+        <item>Wood</item>
+    </string-array>
+</resources>
